@@ -1,0 +1,1 @@
+insert into [IMFAS-OCAB].dbo.Permissionselect * from [IMFAS-Chirontoni].dbo.permission where code = 1115
